@@ -27,3 +27,12 @@ print(5 in lista)
 # Confirmar que no se encuenta en el listado
 print(10 not in lista)
 print(5 not in lista)
+
+# Obtener el indice de un elemento con metodo index
+print(5 in lista)
+index = lista.index(5)
+print(lista)
+"""
+Va a retornar el primer indice de izquierda a derecha
+en el caso de existir en varios indices de la lista
+"""

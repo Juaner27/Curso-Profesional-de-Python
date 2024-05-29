@@ -25,3 +25,6 @@ print(sub_lista)
 # [Start:end:-1] -> Obtener lista en orden inverso
 sub_lista = lista_cursos[::-1]
 print(sub_lista)
+
+
+

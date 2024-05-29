@@ -1,4 +1,4 @@
-promedio = lambda *args : sum(arg) / len(args)
+promedio = lambda *args : sum(args) / len(args)
 
 aprobatorio =  lambda calificacion : calificacion >= 7
 
